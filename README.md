@@ -75,7 +75,7 @@ WHERE RNK <= 5;
 ## 🚀 How to Run the Project
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com
+    git clone https://github.com/TeodoraWeber/sql-sales-analysis.git
     ```
 2.  **Setup Database:** Create a table named `SUPER_STORE` in PostgreSQL and import your data.
 3.  **Run Queries:** Execute the scripts found in the `queries/` folder.
